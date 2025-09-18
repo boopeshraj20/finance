@@ -1,0 +1,81 @@
+{
+  "intents": [
+    {
+      "tag": "budget_summary",
+      "patterns": [
+        "budget summary",
+        "how am i doing",
+        "monthly summary",
+        "financial overview",
+        "show my budget",
+        "budget report"
+      ]
+    },
+    {
+      "tag": "savings_advice",
+      "patterns": [
+        "savings",
+        "save money",
+        "how much should i save",
+        "savings rate",
+        "savings recommendation",
+        "saving tips"
+      ]
+    },
+    {
+      "tag": "spending_insights",
+      "patterns": [
+        "spending",
+        "where is my money going",
+        "insights",
+        "analyze my spending",
+        "spending analysis",
+        "spending habits"
+      ]
+    },
+    {
+      "tag": "investment_advice",
+      "patterns": [
+        "investments",
+        "stocks",
+        "portfolio",
+        "investment advice",
+        "how to invest",
+        "investment options"
+      ]
+    },
+    {
+      "tag": "tax_guidance",
+      "patterns": [
+        "taxes",
+        "tax advice",
+        "deductions",
+        "tax planning",
+        "tax tips",
+        "how to save on taxes"
+      ]
+    },
+    {
+      "tag": "greeting",
+      "patterns": [
+        "hi",
+        "hello",
+        "hey",
+        "good morning",
+        "good afternoon",
+        "good evening"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "bye",
+        "goodbye",
+        "see you later",
+        "thanks",
+        "thank you",
+        "that's all"
+      ]
+    }
+  ]
+}

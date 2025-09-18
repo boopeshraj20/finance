@@ -1,0 +1,48 @@
+{
+  "income": 5000,
+  "expenses": {
+    "Housing": 1500,
+    "Food": 800,
+    "Transportation": 400,
+    "Entertainment": 300,
+    "Utilities": 250,
+    "Other": 250
+  },
+  "transactions": [
+    {
+      "category": "Housing",
+      "amount": 1500,
+      "description": "Monthly rent"
+    },
+    {
+      "category": "Food",
+      "amount": 400,
+      "description": "Groceries"
+    },
+    {
+      "category": "Food",
+      "amount": 400,
+      "description": "Restaurants"
+    },
+    {
+      "category": "Transportation",
+      "amount": 400,
+      "description": "Gas and public transit"
+    },
+    {
+      "category": "Entertainment",
+      "amount": 300,
+      "description": "Movies and hobbies"
+    },
+    {
+      "category": "Utilities",
+      "amount": 250,
+      "description": "Electric, water, internet"
+    },
+    {
+      "category": "Other",
+      "amount": 250,
+      "description": "Miscellaneous"
+    }
+  ]
+}
